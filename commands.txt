@@ -1,0 +1,14 @@
+2.git init lab1
+3.cd lab1 , notepad l1.txt
+5.git add . , git commit -m "Initial commit"
+6.notepad l1.txt(go otvarame txt fajlot za da ja napiseme i nasokata)
+7.git add l1.txt , git commit -m "modify li.txt"
+9. git remote add origin URL
+10. git push origin master
+11.git rebase -i HEAD^
+12.git branch logging
+12.git checkout logging
+14.git push origin logging, git add log.txt, git commit -m "log smena", git push origin logging
+15.git checkout master, git merge logging
+16.git branch allcomands
+17.git checkout allcomands , notepad commands.txt
