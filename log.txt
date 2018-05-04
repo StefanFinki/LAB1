@@ -1,0 +1,11 @@
+commit d80a65496239a1d3d53da64a08ba544f23511b36 (HEAD -> logging, origin/master, origin/logging, master)
+Author: StefanFinki <stefan.klenkoski@students.finki.ukim.mk>
+Date:   Fri May 4 15:59:10 2018 +0200
+
+    modify l1.txt
+
+commit bd79607b7a100ef05a574d8e1c03fbaea43a8d4f
+Author: StefanFinki <stefan.klenkoski@students.finki.ukim.mk>
+Date:   Fri May 4 15:56:59 2018 +0200
+
+    Initial commit
